@@ -1,0 +1,15 @@
+body {
+    font-family: DejaVu Sans;
+    background-color: rgb(16, 16, 16);
+    color: white;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 39px;
+}
+
+ul li, ol li {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
